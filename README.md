@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-Sou aluno do 3º ano de Engenharia Informática na Universidade da Beira Interior (UBI). Atualmente, estou a desenvolver a minha tese de licenciatura focada em **runtime monitoring** para ambientes heterogéneos — desde microcontroladores *edge* até ao navegador — utilizando **WebAssembly** como camada de execução universal.
+Sou aluno do 3º ano de Engenharia Informática na Universidade da Beira Interior (UBI). Atualmente, estou a desenvolver a minha tese de licenciatura focada em **runtime monitoring** para ambientes heterogéneos — desde microcontroladores *edge* até ao navegador — através de **WebAssembly** como camada de execução universal.
 
 ---
 
@@ -38,7 +38,7 @@ O projeto utiliza especificações **RMTLD3** (Runtime Metric Temporal Logic wit
 - Lógica trivalente: **TRUE** / **FALSE** / **UNKNOWN**.
 - Portabilidade total: zero alterações de código para mudar o target para WASM.
 
-**Stack:** `C++11` · `WebAssembly (WASI)` · `WAMR` · `Docker` · `rmtld3synth`
+**Stack:** `C++11` · `WebAssembly (WASI)` · `WAMR` · `Docker` · `rmtld3synth` . `OCaml`
 
 [![Thesis Repo](https://img.shields.io/badge/Repo-UMA__Monitors__Artifact-brightgreen?style=flat-square&logo=github)](https://github.com/Brunocor26/UMA_Monitors_Artifact)
 
