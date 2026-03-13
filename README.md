@@ -54,7 +54,7 @@ The project takes **RMTLD3** (Runtime Metric Temporal Logic with Durations) spec
 | [ChessFX](https://github.com/Brunocor26/ChessFX) | Chess engine with JavaFX GUI | Java |
 | [ProjetoFinal_CG](https://github.com/Brunocor26/ProjetoFinal_CG) | Computer graphics final project | C |
 | [SO_ProbSched](https://github.com/Brunocor26/SO_ProbSched) | Probabilistic OS scheduler | OCaml |
-| [PeritoFilmes](https://github.com/Brunocor26/PeritoFilmes) | Expert system for film recommendations | Prolog |
+
 
 ---
 
@@ -66,7 +66,6 @@ The project takes **RMTLD3** (Runtime Metric Temporal Logic with Durations) spec
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
