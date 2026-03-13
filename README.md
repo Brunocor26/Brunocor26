@@ -54,7 +54,7 @@ O projeto utiliza especificações **RMTLD3** (Runtime Metric Temporal Logic wit
 | [**ChessFX**](https://github.com/Brunocor26/ChessFX) | Motor de xadrez com interface gráfica JavaFX. | Java |
 | [**ProjetoFinal_CG**](https://github.com/Brunocor26/ProjetoFinal_CG) | Projeto final de Computação Gráfica. | C |
 | [**SO_ProbSched**](https://github.com/Brunocor26/SO_ProbSched) | Escalonador probabilístico de sistema operativo. | OCaml |
-| [**KeyZero**](https://github.com/henriquelaia/KeyZero) | Projeto desenvolvido para o hackathon Shift to Digital. | Java |
+| [**KeyZero**](https://github.com/henriquelaia/KeyZero) | Projeto desenvolvido para o hackathon Shift to Digital. | JavaScript · React |
 
 ---
 
