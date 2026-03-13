@@ -52,7 +52,7 @@ O projeto utiliza especificações **RMTLD3** (Runtime Metric Temporal Logic wit
 | [**VotoInformado**](https://github.com/Brunocor26/VotoInformado) | App de apoio ao voto informado com API REST. | Java · JavaScript |
 | [**Software-Incident-Management**](https://github.com/Brunocor26/Software-Incident-Management-System) | Plataforma full-stack de tracking de incidentes. | JavaScript |
 | [**ChessFX**](https://github.com/Brunocor26/ChessFX) | Motor de xadrez com interface gráfica JavaFX. | Java |
-| [**ProjetoFinal_CG**](https://github.com/Brunocor26/ProjetoFinal_CG) | Projeto final de Computação Gráfica. | C |
+| [**ProjetoFinal_CG**](https://github.com/Brunocor26/ProjetoFinal_CG) | Projeto final de Computação Gráfica. | C++ · OpenGL |
 | [**SO_ProbSched**](https://github.com/Brunocor26/SO_ProbSched) | Escalonador probabilístico de sistema operativo. | OCaml |
 | [**KeyZero**](https://github.com/henriquelaia/KeyZero) | Projeto desenvolvido para o hackathon Shift to Digital. | JavaScript · React |
 
