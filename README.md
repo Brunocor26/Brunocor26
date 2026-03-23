@@ -18,7 +18,7 @@ Sou aluno do 3º ano de Engenharia Informática na Universidade da Beira Interio
 
 ---
 
-## 🎓 Bachelor's Thesis — UMA Monitors Artifact
+## 🎓 Bachelor's Final Project — UMA Monitors Artifact
 
 > **Universal Microservices for Application Monitoring**
 > — Compilação de monitores de lógica temporal formal em módulos WebAssembly portáteis para dispositivos IoT limitados.
