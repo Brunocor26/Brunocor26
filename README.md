@@ -1,7 +1,7 @@
 <div align="center">
 
 # Bruno Correia
-**MSc Informatics Engineering Student @ UA
+**MSc Informatics Engineering Student @ UA**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Brunocor26.github.io-blue?style=flat-square&logo=github)](https://brunocor26.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Correia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-correia-5479851a2/)
