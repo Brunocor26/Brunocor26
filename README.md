@@ -1,7 +1,7 @@
 <div align="center">
 
 # Bruno Correia
-**Computer Engineering Student @ UBI · 3rd Year**
+**MSc Informatics Engineering Student @ UA
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Brunocor26.github.io-blue?style=flat-square&logo=github)](https://brunocor26.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Correia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-correia-5479851a2/)
@@ -12,13 +12,13 @@
 
 </div>
 
-## 👤 About Me
+## About Me
 
-Sou aluno do 3º ano de Engenharia Informática na Universidade da Beira Interior (UBI). Atualmente, estou a desenvolver a minha tese de licenciatura focada em **runtime monitoring** para ambientes heterogéneos — desde microcontroladores *edge* até ao navegador — através de **WebAssembly** como camada de execução universal.
+Sou aluno do 3º ano de Engenharia Informática na Universidade da Beira Interior (UBI). Atualmente, desenvolvi o meu projeto de licenciatura focado em **runtime monitoring** para ambientes heterogéneos, desde microcontroladores *edge* até ao navegador através de **WebAssembly** como camada de execução universal.
 
 ---
 
-## 🎓 Bachelor's Final Project — UMA Monitors Artifact
+## Bachelor's Final Project — UMA Monitors Artifact
 
 > **Universal Microservices for Application Monitoring**
 > — Compilação de monitores de lógica temporal formal em módulos WebAssembly portáteis para dispositivos IoT limitados.
@@ -44,7 +44,7 @@ O projeto utiliza especificações **RMTLD3** (Runtime Metric Temporal Logic wit
 
 ---
 
-## 🚀 Other Projects
+## Other Projects
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
@@ -58,7 +58,7 @@ O projeto utiliza especificações **RMTLD3** (Runtime Metric Temporal Logic wit
 
 ---
 
-## 🛠 Languages & Tools
+## Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
@@ -70,7 +70,7 @@ O projeto utiliza especificações **RMTLD3** (Runtime Metric Temporal Logic wit
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
